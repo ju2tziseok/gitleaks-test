@@ -1,2 +1,2 @@
 # app.py
-OPENAI_API_KEY = "sk-test-prblock-abc123456"
+OPENAI_API_KEY = "sk-test-prblock-abc12345336"
