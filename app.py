@@ -1,4 +1,2 @@
-
 # app.py
-print("✅ Hello from Gitleaks re-test!")  # 메시지만 바꿔도 충분!
-
+print("✅ Gitleaks 재실행 테스트 완료!!")  # 느낌표 추가
