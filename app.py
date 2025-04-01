@@ -1,2 +1,2 @@
-# 테스트용 가짜 API Key (실제 키 아님)
-print(hello)
+# app.py
+print("✅ Hello from the updated Gitleaks re-test!")  # 작은 메시지 변경
