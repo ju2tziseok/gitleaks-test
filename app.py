@@ -1,2 +1,2 @@
 # app.py
-print("✅ Hello from the updated Gitleaks re-test!")  # 작은 메시지 변경
+OPENAI_API_KEY = "sk-test-prblock-abc123456"
